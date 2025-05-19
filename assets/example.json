@@ -1,1 +1,10 @@
-
+{
+    "name": "Greylag Goose NFT",
+    "symbol": "GLGoose",
+    "description": "Image for Greylag Goose",
+    "seller_fee_basis_points": 1,
+    "external_url": "",
+    "edition": "",
+    "background_color": "000000",
+    "image": https://github.com/ple999/nftTest/blob/main/images/canada_goose_8bit.png"
+}
